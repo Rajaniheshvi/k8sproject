@@ -15,6 +15,6 @@ spec:
         namespace: default
       spec:
          containers:
-            - image: garlapatirajanikanth/nginxdemo:1
+            - image: garlapatirajanikanth/nginxdemo:2
               imagePullPolicy: Always
               name: mynginx23
